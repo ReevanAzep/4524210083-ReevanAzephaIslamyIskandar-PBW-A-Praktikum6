@@ -310,6 +310,23 @@ Aspek yang dapat diuji antara lain:
 
 Hasil pengujian perlu diperiksa setelah perintah dijalankan untuk memastikan aplikasi berjalan sesuai kebutuhan.
 
+## Screenshot Website
+
+### Screenshot Admin Panel yang Berhasil Login
+![Admin Panel](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/6832cb9cc473623f61e57de12d7104fedf23e052/img/Laravel.jpg)
+
+### Screenshot List Books dengan Data yang Ter-seed
+![List Books](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/6832cb9cc473623f61e57de12d7104fedf23e052/img/Laravel.jpg)
+
+### Screenshot Form Create Book
+![Form Create Book](./img/create-book.png)
+
+### Screenshot Hasil Pencarian
+![Hasil Pencarian](./img/search-books.png)
+
+### Screenshot Filter Aktif
+![Filter Aktif](./img/filter-books.png)
+
 ## 📄 Penutup
 
 Melalui Praktikum 6, mahasiswa dapat memahami penerapan Laravel dan Filament untuk membangun aplikasi pengelolaan data berbasis web. AuthBook menerapkan konsep MVC, Eloquent ORM, migration, relasi antarmodel, serta operasi CRUD untuk data buku dan penulis.
