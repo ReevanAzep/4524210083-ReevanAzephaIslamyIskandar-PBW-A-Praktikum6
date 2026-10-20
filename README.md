@@ -313,19 +313,19 @@ Hasil pengujian perlu diperiksa setelah perintah dijalankan untuk memastikan apl
 ## Screenshot Website
 
 ### Screenshot Admin Panel yang Berhasil Login
-![Admin Panel](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/6832cb9cc473623f61e57de12d7104fedf23e052/img/Laravel.jpg)
+![Admin Panel](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/af85eed73ef83fd13a31f4cc2e4193e52ae3ea22/Screenshoot/login.jpeg)
 
 ### Screenshot List Books dengan Data yang Ter-seed
-![List Books](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/6832cb9cc473623f61e57de12d7104fedf23e052/img/Laravel.jpg)
+![List Books](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/af85eed73ef83fd13a31f4cc2e4193e52ae3ea22/Screenshoot/dashboard.jpeg)
 
 ### Screenshot Form Create Book
-![Form Create Book](./img/create-book.png)
+![Form Create Book](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/af85eed73ef83fd13a31f4cc2e4193e52ae3ea22/Screenshoot/create%20book.jpeg)
 
 ### Screenshot Hasil Pencarian
-![Hasil Pencarian](./img/search-books.png)
+![Hasil Pencarian](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/af85eed73ef83fd13a31f4cc2e4193e52ae3ea22/Screenshoot/list%20books%202.jpeg)
 
 ### Screenshot Filter Aktif
-![Filter Aktif](./img/filter-books.png)
+![Filter Aktif](https://github.com/ReevanAzep/4524210083-ReevanAzephaIslamyIskandar-PBW-A-Praktikum6/blob/af85eed73ef83fd13a31f4cc2e4193e52ae3ea22/Screenshoot/filter.jpeg)
 
 ## 📄 Penutup
 
